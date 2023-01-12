@@ -1,5 +1,5 @@
 
-# ZCB 2.0 (Zeo's ClickBot)
+# ZCB 2.0 (Xy3rx's ClickBot)
 [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) Clickbot, written in [Python](https://www.python.org/). It is the rewrite of ZCB with better codebase, easier usage, and better sound.
 
 ![ZCB logo made by Frigel](https://cdn.discordapp.com/attachments/952196428598501426/952630587162775562/icon.jpg)
